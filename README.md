@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Gabriela Alves 👋
 
-- 👩‍🎓 I'm student on Fatec - technology College
-- 👩‍💻 I’m studying analysis and systems development 6/6 
-- 😊 Pronouns: she
+- 👩‍🎓 Sou formada em Análise e Desenvolvimento de Sistemas pela FATEC de Presidente Prudente/SP.
+- 👩‍💻 Sou professora de ensino médio e técnico na ETEC de Presidente Prudente/SP, atuando nos cursos de tecnologia.
+- 😊 Estou cursando pós-graduação em Ciência de Dados.
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Ga-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
