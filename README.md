@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Gabriela Alves 👋
 
-- 👩‍🎓 Sou formada em Análise e Desenvolvimento de Sistemas pela FATEC de Presidente Prudente/SP.
-- 👩‍💻 Sou professora de ensino médio e técnico na ETEC de Presidente Prudente/SP, atuando nos cursos de tecnologia.
-- 😊 Estou cursando pós-graduação em Ciência de Dados.
+- 👩‍🎓 Formada em Análise e Desenvolvimento de Sistemas pela FATEC de Presidente Prudente/SP.
+- 👩‍💻 Docente do Ensino Médio e Técnico junto à ETEC Professor Adolpho Arruda Mello de Presidente Prudente/SP. Atuo nos cursos de Tecnologia da Informação.
+- 😊 Estou cursando MBA em Engenharia de Software (Esalq/Usp) e Pós-graduação em Ciência de Dados (Unoeste).
 
 
  
